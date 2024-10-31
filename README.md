@@ -35,7 +35,7 @@ Para visualizar o dashboard e interagir com os dados, acesse o link abaixo:
 [Visualizar Dashboard](https://app.powerbi.com/groups/me/reports/839a7420-f619-4a17-a22c-2a554ba635d6/ReportSectionb1b39f30add9200534cd?experience=power-bi)
 
 
-[Visualizar Dashboard](https://app.powerbi.com/groups/me/list?experience=power-bi)
+[Visualizar Dashboard](https://app.powerbi.com/groups/me/reports/839a7420-f619-4a17-a22c-2a554ba635d6/ReportSectionb1b39f30add9200534cd?experience=power-bi)
 
 ## Dicas e Recursos para Aprofundamento
 
@@ -58,9 +58,3 @@ Este desafio foi uma oportunidade excelente para aplicar os conceitos de design 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-## Demonstração do Projeto
-
-Aqui está uma breve demonstração do projeto em um GIF:
-
-![Demonstração do Dashboard](https://github.com/JohnnatanKrause/Desafio-10-DIO-Criando-um-Dashboard-Gerencial-com-Power-BI/blob/master/Teste%20de%20Projeto%20do%20desafio.gif?raw=true)
