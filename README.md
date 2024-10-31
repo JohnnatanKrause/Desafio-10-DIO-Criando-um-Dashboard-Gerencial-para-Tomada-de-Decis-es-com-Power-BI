@@ -32,6 +32,9 @@ O dashboard contém os seguintes elementos:
 
 Para visualizar o dashboard e interagir com os dados, acesse o link abaixo:
 
+[Visualizar Dashboard](https://app.powerbi.com/groups/me/reports/839a7420-f619-4a17-a22c-2a554ba635d6/ReportSectionb1b39f30add9200534cd?experience=power-bi)
+
+
 [Visualizar Dashboard](https://app.powerbi.com/groups/me/list?experience=power-bi)
 
 ## Dicas e Recursos para Aprofundamento
