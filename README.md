@@ -34,9 +34,6 @@ Para visualizar o dashboard e interagir com os dados, acesse o link abaixo:
 
 [Visualizar Dashboard](https://app.powerbi.com/groups/me/reports/839a7420-f619-4a17-a22c-2a554ba635d6/ReportSectionb1b39f30add9200534cd?experience=power-bi)
 
-
-[Visualizar Dashboard](https://app.powerbi.com/groups/me/reports/839a7420-f619-4a17-a22c-2a554ba635d6/ReportSectionb1b39f30add9200534cd?experience=power-bi)
-
 ## Dicas e Recursos para Aprofundamento
 
 - **Cursos e Tutoriais**: Explore plataformas como a DIO, Coursera, Udemy e YouTube para cursos de Power BI.
@@ -58,3 +55,6 @@ Este desafio foi uma oportunidade excelente para aplicar os conceitos de design 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+JK
